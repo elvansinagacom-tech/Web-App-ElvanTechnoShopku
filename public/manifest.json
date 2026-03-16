@@ -1,0 +1,17 @@
+{
+  "name": "ElvanTechnoShop",
+  "short_name": "El-Shop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "description": "ElvanTechnoShop by Elvan Parlin Agustario Sinaga",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
