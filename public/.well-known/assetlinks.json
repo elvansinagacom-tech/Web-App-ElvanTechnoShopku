@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.web_app_elvan_techno_shopku.twa",
+        "sha256_cert_fingerprints": ["FA:4F:E6:0B:87:91:C6:3D:FA:B5:4A:A3:AD:1D:A8:B1:84:0E:4D:D3:B2:1B:C9:EC:8C:58:C3:31:FA:1A:13:44"]
+      }
+    }]
+
