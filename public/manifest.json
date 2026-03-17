@@ -1,0 +1,23 @@
+{
+  "name": "ElvanTechnoShop",
+  "short_name": "El-Shop",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "description": "ElvanTechnoShop by Elvan Parlin Agustario Sinaga",
+  "icons": [
+    {
+      "src": "https://web-app-elvan-techno-shopku.vercel.app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://web-app-elvan-techno-shopku.vercel.app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
