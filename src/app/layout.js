@@ -20,3 +20,7 @@ export const viewport = {
   userScalable: false, // Mencegah user nge-zoom layar pakai 2 jari
   viewportFit: 'cover', // INI MANTRA AJAIBNYA! (Biar aplikasi tembus ke belakang jam)
 };
+export const metadata = {
+  title: 'ElvanTechnoShop',
+  description: '...',
+}
