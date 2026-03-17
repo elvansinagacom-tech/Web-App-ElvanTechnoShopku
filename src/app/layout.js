@@ -3,7 +3,12 @@ import './globals.css'
 export const metadata = {
   title: 'ElvanTechnoShop',
   description: 'Dibuat resmi oleh Elvan Parlin Agustario Sinaga',
-  manifest: '/manifest.json'
+  manifest: '/manifest.json',
+  icons: {
+    icon: '/icon-192.png',
+    shortcut: '/icon-192.png',
+    apple: '/icon-192.png',
+  },
 }
 
 export default function RootLayout({ children }) {
