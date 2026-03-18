@@ -17,8 +17,8 @@ export const viewport = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="id">
-      <body className="overscroll-y-none">
+    <html lang="id" className="overscroll-none">
+      <body className="overscroll-none">
         {children}
       </body>
     </html>
