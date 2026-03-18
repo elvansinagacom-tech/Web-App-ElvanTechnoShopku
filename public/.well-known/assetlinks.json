@@ -3,7 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.vercel.web_app_elvan_techno_shopku.twa",
-        "sha256_cert_fingerprints": ["FA:4F:E6:0B:87:91:C6:3D:FA:B5:4A:A3:AD:1D:A8:B1:84:0E:4D:D3:B2:1B:C9:EC:8C:58:C3:31:FA:1A:13:44"]
+        "sha256_cert_fingerprints": ["93:B4:E7:86:1B:4E:C3:8F:E9:F0:D0:47:8C:C1:14:B6:10:2D:DE:92:F4:F8:FD:FE:42:D6:41:40:73:1E:94:F1"]
       }
     }]
-
